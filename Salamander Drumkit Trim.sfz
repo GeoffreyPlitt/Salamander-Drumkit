@@ -10,7 +10,7 @@
 // removing the kick fixes by kinwie
 
 <control>
-default_path=OH\
+default_path=Samples/
 
 label_cc20=kick vol
 label_cc21=kick pan
